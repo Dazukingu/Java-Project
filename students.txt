@@ -1,0 +1,4 @@
+STU001,0538291933,password123,Vince,vince@gmail.com,019-222-333,Kuala Lumpur,Form 5,January,CL007;CL008;CL015
+STU002,39459933,password123,kim,kim@gmail.com,018-383-3848,Kuala Lumpur,Form 5,January,CL007;CL008;CL014
+STU003,3242324424,password123,Sebastian,93920482@yahoo.com,018-239-3933,KualaLumpur,Form 1,January,CL001;CL005;CL006
+STU004,038282845,password123,Max,maxium@gmail.com,016-999-9111,Pahang,Form 4,January,CL004;CL012;CL013

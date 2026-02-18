@@ -1,0 +1,10 @@
+TC001,Alice,pass123,alice@gmail.com,06-06-1998,0123552843
+TC002,Mike,123pass,mike@gmail.com,30-02-1990,01160740843
+TC003,Vincent,4321,vincent@gmail.com,05-07-1997,0183571182
+TC004,Lisa,lisa321,lisa@gmail.com,15-03-1994,0124567890
+TC005,Daniel,daniel123,daniel@gmail.com,22-09-1995,0172345678
+TC006,Nina,nina456,nina@gmail.com,08-12-1992,0113456789
+TC007,Ethan,ethan789,ethan@gmail.com,03-07-2000,0109876543
+TC008,Grace,grace123,grace@gmail.com,19-01-1996,0188765432
+TC009,Samuel,samuel456,samuel@gmail.com,27-11-1993,0197654321
+TC010,Rachel,rachel789,rachel@gmail.com,11-05-2002,0161234567

@@ -1,0 +1,3 @@
+RC001,sarah,sarah123,Sarah Johnson,sarah@atc.edu.my,0123456789
+RC002,john,john456,John Smith,john@atc.edu.my,0123456788
+RC003,mary,mary789,Mary Wilson,mary@atc.edu.my,0123456787

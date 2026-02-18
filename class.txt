@@ -1,0 +1,30 @@
+CL001,TC001,Mathematics Form 1,Basic math for beginners,2025-07-01; 2025-07-02; 2025-07-03,50.0
+CL005,TC005,History Form 1,Early civilizations and empires,2025-07-13; 2025-07-14; 2025-07-15,50.0
+CL006,TC005,Geography Form 1,World map and physical features,2025-07-16; 2025-07-17; 2025-07-18,50.0
+CL016,TC001,Pendidikan Seni Form 1,Introduction to art and creativity,2025-08-15; 2025-08-16; 2025-08-17,40.0
+CL017,TC002,RBT Form 1,Design basics and hands-on projects,2025-08-18; 2025-08-19; 2025-08-20,45.0
+CL002,TC002,English Form 2,Fundamental English skills,2025-07-04; 2025-07-05; 2025-07-06,45.0
+CL009,TC007,Mathematics Form 2,Numbers fractions and ratios,2025-07-25; 2025-07-26; 2025-07-27,45.0
+CL010,TC007,Malay Form 2,Story reading and comprehension,2025-07-28; 2025-07-29; 2025-07-30,45.0
+CL018,TC003,Pendidikan Seni Form 2,Color theory and composition,2025-08-21; 2025-08-22; 2025-08-23,40.0
+CL019,TC004,RBT Form 2,Model making and design software,2025-08-24; 2025-08-25; 2025-08-26,45.0
+CL020,TC005,Sejarah Form 2,Colonial history and resistance,2025-08-27; 2025-08-28; 2025-08-29,45.0
+CL021,TC006,Geografi Form 2,Physical and human geography,2025-08-30; 2025-08-31; 2025-09-01,45.0
+CL022,TC007,Science Form 2,Energy and the environment,2025-09-02; 2025-09-03; 2025-09-04,50.0
+CL003,TC003,Science Form 3,Introduction to science concepts,2025-07-07; 2025-07-08; 2025-07-09,55.0
+CL011,TC008,Geography Form 3,Climate zones and countries,2025-07-31; 2025-08-01; 2025-08-02,50.0
+CL023,TC008,Mathematics Form 3,Algebra and linear equations,2025-09-05; 2025-09-06; 2025-09-07,50.0
+CL024,TC009,English Form 3,Grammar and creative writing,2025-09-08; 2025-09-09; 2025-09-10,50.0
+CL025,TC010,Bahasa Melayu Form 3,Karangan and literature,2025-09-11; 2025-09-12; 2025-09-13,50.0
+CL004,TC004,Malay Form 4,Bahasa Melayu advanced usage,2025-07-10; 2025-07-11; 2025-07-12,40.0
+CL012,TC009,English Form 4,Presentation and writing skills,2025-08-03; 2025-08-04; 2025-08-05,55.0
+CL013,TC009,History Form 4,Malaysia independence and politics,2025-08-06; 2025-08-07; 2025-08-08,55.0
+CL026,TC001,Physics Form 4,Motion and dynamics,2025-09-14; 2025-09-15; 2025-09-16,60.0
+CL027,TC002,Chemistry Form 4,Periodic table and compounds,2025-09-17; 2025-09-18; 2025-09-19,60.0
+CL028,TC003,Biology Form 4,Nutrition and respiration,2025-09-20; 2025-09-21; 2025-09-22,60.0
+CL007,TC006,English Form 5,Exam preparation and essay writing,2025-07-19; 2025-07-20; 2025-07-21,60.0
+CL008,TC006,Science Form 5,SPM-level science discussions,2025-07-22; 2025-07-23; 2025-07-24,60.0
+CL014,TC010,Science Form 5,Advanced SPM problem-solving,2025-08-09; 2025-08-10; 2025-08-11,60.0
+CL015,TC010,Mathematics Form 5,Trigonometry and calculus intro,2025-08-12; 2025-08-13; 2025-08-14,60.0
+CL029,TC004,Physics Form 5,Electricity and magnetism,2025-09-23; 2025-09-24; 2025-09-25,60.0
+CL030,TC005,Add Maths Form 5,Functions calculus and graphs,2025-09-26; 2025-09-27; 2025-09-28,65.0
